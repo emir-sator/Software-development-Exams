@@ -1,0 +1,104 @@
+﻿@model RS1_2020_01_30.ViewModels.AjaxIndexVM
+
+@{
+    Layout = null;
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Odjeljenje</th>
+            <th>Broj u dnevniku</th>
+            <th>Pristupio</th>
+            <th>Broj bodova</th>
+            <th>Akcija</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model.Redovi)
+        {
+            <tr>
+                @if (Model.Zakljucaj == false)
+                {
+                    if (x.Pristupio)
+                    {
+                        <td>@x.Odjeljenje</td>
+                        <td>@x.BrojUDnevniku</td>
+                        <td><a class="btn btn-success" asp-action="TogglePristupio" asp-route-id="@x.TakmicenjeUcesnikID">DA</a></td>
+                       
+                        <td><input class="Bodovi" id="@x.TakmicenjeUcesnikID" type="number" value="@x.Bodovi" /></td>
+                        <td><a ajax-poziv="da"
+                               ajax-rezultat="ajaxDiv"
+                               ajax-url="/Takmicenje/Rezultat/@Model.TakmicenjeId"
+                               asp-action="Uredi"
+                               asp-route-id="@x.TakmicenjeUcesnikID">
+                                Uredi</a>
+                         </td>
+                    }
+                    else
+                    {
+                        <td>@x.Odjeljenje</td>
+                        <td>@x.BrojUDnevniku</td>
+                        <td><a class="btn btn-danger" 
+                               asp-action="TogglePristupio"
+                               asp-route-id="@x.TakmicenjeUcesnikID"
+                               >NE</a>
+                        </td>
+                        <td>X</td>
+                    }
+                }
+                else
+                {
+                    if (x.Pristupio)
+                    {
+                        <td>@x.Odjeljenje</td>
+                        <td>@x.BrojUDnevniku</td>
+                        <td>DA</td>
+                        <td>@x.Bodovi</td>
+                        <td>Uredi</td>
+                    }
+                    else
+                    {
+                        <td>@x.Odjeljenje</td>
+                        <td>@x.BrojUDnevniku</td>
+                        <td>NE</td>
+                        <td>X</td>
+                       
+                    }
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (Model.Zakljucaj)
+{
+    <a class="btn btn-default">Dodaj ucesnika</a>
+
+}
+else
+{
+    <a ajax-poziv="da" ajax-rezultat="ajaxDiv" ajax-url="/Takmicenje/Rezultat?=@Model.TakmicenjeId" class="btn btn-default"
+       asp-controller="Ajax" asp-action="Dodaj" asp-route-id="@Model.TakmicenjeId">Dodaj ucesnika</a>
+    <br />
+}
+<script>function UpdateBodovi() {
+        $("input.Bodovi").focusout(function (e, status) {
+            var id = $(this).attr("id");
+            var bodovi = $(this).val();
+
+            if (bodovi >= 0 && bodovi <= 100) {
+                $.post("/Ajax/UpdateBodovi?id=" + id + "&bodovi=" + bodovi);
+            }
+
+        });
+    }
+
+    $(document).ready(function () {
+        UpdateBodovi();
+    });
+
+    $(document).ajaxComplete(function () {
+        UpdateBodovi();
+    });
+ </script>

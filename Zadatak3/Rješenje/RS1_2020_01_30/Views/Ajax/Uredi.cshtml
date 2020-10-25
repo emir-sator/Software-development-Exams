@@ -1,0 +1,15 @@
+﻿@model RS1_2020_01_30.ViewModels.AjaxUrediDodajVM
+
+<div class="row">
+    <div class="col-md-2">
+        <form asp-action="Snimi">
+            <input asp-for="TakmicenjeID" hidden />
+            <input asp-for="UcesnikID" hidden />
+
+            <label class="control-label">Ucesnik: @Model.Ucesnik</label>
+            <input class="form-control" type="number" asp-for="@Model.Bodovi" />
+
+            <input type="submit" value="Snimi" />
+        </form>
+    </div>
+</div>

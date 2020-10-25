@@ -1,0 +1,64 @@
+﻿@model RS1_Ispit_asp.net_core.ViewModels.TakmicenjeIndexVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h4>Prikaz takmičenja</h4>
+<br />
+<form asp-action="Index">
+    <label>Filter za škole:</label>
+    <select class="form-control" asp-for="SkolaID" asp-items="@Model.Skole">
+        @if (Model.SkolaID == 0)
+        {
+            <option selected disabled>Odaberi skolu</option>
+
+        }
+    </select>
+    <label>Filter za predmete:</label>
+    <select class="form-control" asp-for="PredmetID" asp-items="@Model.Predmeti" >
+        <option >Odaberi predmet</option>
+    </select>
+    <br />
+    <input type="submit" value="Odaberi" />
+    <br />
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Škola</th>
+            <th>Razred</th>
+            <th>Datum</th>
+            <th>Predmet</th>
+            <th>Najbolji učesnik (Škola | Odjeljenje | Ime i prezime)</th>
+            <th>Akcija</th>
+
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var x in Model.Redovi)
+        {
+            <tr>
+                <td>@x.Skola</td>
+                <td>@x.Razred</td>
+                <td>@x.Datum</td>
+                <td>@x.Predmet</td>
+                <td>@x.NajboljiUcenik</td>
+                <td><a asp-controller="Takmicenje" asp-action="Rezultati" asp-route-id="@x.TakmicenjeID">Rezultati</a></td>
+
+
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+<br />
+@if (Model.SkolaID != 0)
+{
+    
+    <a class="btn btn-default" asp-controller="Takmicenje" asp-action="Dodaj" asp-route-id="@Model.SkolaID">Dodaj </a>
+}
+

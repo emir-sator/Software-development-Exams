@@ -1,0 +1,27 @@
+﻿@model RS1_2020_01_30.ViewModels.TakmicenjeRezultatiVM
+
+<label>Skola domacin: @Model.SkolaDomacin</label>
+<br />
+<label>Predmet: @Model.Predmet</label>
+<br />
+<label>Razred: @Model.Razred</label>
+<br />
+<label>Datum: @Model.Datum.ToString("dd/mm/yyyy")</label>
+<br />
+
+<a class="btn btn-default" asp-action="Zakljucaj" asp-route-id="@Model.TakmicenjeID">Zakljucaj</a>
+<br />
+<br />
+
+
+<div id="ajaxDiv">
+
+</div>
+<br />
+<a asp-controller="Takmicenje" asp-action="Dodaj" asp-route-id="@Model.SkolaID" class="btn btn-default">Novo takmicenje</a>
+
+<script>
+    $.get("/Ajax/Index?=@Model.TakmicenjeID", function (rezultat) {
+        $("#ajaxDiv").html(rezultat);
+    })
+</script>

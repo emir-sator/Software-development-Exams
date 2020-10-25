@@ -1,0 +1,33 @@
+﻿@model RS1_Ispit_asp.net_core.ViewModels.TakmicenjeRezultatVM
+
+<label>Škola domaćin: @Model.SkolaDomacin</label>
+<br />
+
+<label>Predmet: @Model.Predmet</label>
+<br />
+
+<label>Razred: @Model.Razred</label>
+<br />
+
+<label>Datum: @Model.Datum.ToString("dd/MM/yyyy")</label>
+<br />
+
+ <a class="btn btn-default" asp-action="Zakljucaj" asp-route-id="@Model.TakmicenjeID">Zakljucaj</a>
+<br />
+<br />
+
+<div id="ajaxDiv">
+
+
+</div>
+<a asp-controller="Takmicenje" asp-action="Dodaj"  class="btn btn-default">Novo takmicenje</a>
+
+<script>
+
+    $.get("/Ajax/Index?=@Model.TakmicenjeID", function (rezultat) {
+        $("#ajaxDiv").html(rezultat);
+    })
+</script>
+
+
+

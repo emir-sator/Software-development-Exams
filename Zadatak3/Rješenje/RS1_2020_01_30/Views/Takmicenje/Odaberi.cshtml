@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "Odaberi";
+}
+@model RS1_2020_01_30.ViewModels.TakmicenjeOdaberiVM
+
+<h4>Prikaz takmičenja</h4>
+<br />
+<div >
+    <label class="control-label">Škola domaćin: </label> @Model.Skola<br />
+    <label class="control-label">Razred: </label> @Model.Razred<br />
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>TakmičenjeID</th>
+            <th>Predmet</th>
+            <th>Razred</th>
+            <th>Datum</th>
+            <th>Broj ucenika koji nisu pristupili</th>
+            <th>Najbolji ucenik (Skola | Odjeljenje | Ime i prezime)</th>
+            <th>Akcija</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        
+        
+    @foreach (var x in Model.redovi)
+    {
+        <tr>
+            <td>@x.TakmicenjeID</td>
+            <td>@x.Predmet</td>
+            <td>@x.Razred</td>
+            <td>@x.Datum</td>
+            <td>@x.BrojUcenikaKojiNisuPristupili</td>
+            <td>@x.Najbolji</td>
+            <td>
+                <a asp-controller="Takmicenje" asp-action="Rezultat" asp-route-id="@x.TakmicenjeID">Rezultati</a>
+            </td>
+
+
+        </tr>
+    }
+    </tbody>
+</table>
+<div>
+    <a class="btn btn-default" asp-controller="Takmicenje" asp-action="Dodaj" asp-route-id="@Model.SkolaID">Dodaj  </a>  
+</div>
+
+
+

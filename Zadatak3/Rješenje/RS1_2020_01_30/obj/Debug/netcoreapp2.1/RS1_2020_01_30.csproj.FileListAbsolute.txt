@@ -1,0 +1,213 @@
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.deps.json
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.json
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.dev.json
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.dll
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfo.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.input.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.output.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorCoreGenerate.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\Index.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\_AjaxTestView.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Proba.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cs
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.genruntimeconfig.cache
+C:\Users\Home\Desktop\III godina\I semestar\RS I\Ostalo\Razvoj-Softvera-1-master\Razvoj-Softvera-1-master\Ispiti\2020-01-30\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CopyComplete
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.deps.json
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.json
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.dev.json
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.dll
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfo.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.input.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.output.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorCoreGenerate.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\Index.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\_AjaxTestView.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Proba.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.genruntimeconfig.cache
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CopyComplete
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Index.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Odaberi.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Dodaj.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Index.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Uredi.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Rezultat.cshtml.g.cs
+C:\Users\Home\Desktop\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Dodaj.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.json
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\bundleconfig.json
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.deps.json
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.json
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.dev.json
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.dll
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csprojAssemblyReference.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CoreCompileInputs.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfoInputs.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfo.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.input.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.output.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorCoreGenerate.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\Index.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\_AjaxTestView.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Dodaj.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Index.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Uredi.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Proba.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Dodaj.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Index.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Odaberi.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Rezultat.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cs
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.genruntimeconfig.cache
+E:\III godina\sve za rs1\2020-01-30 - vjezba final\Postavka\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CopyComplete
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.deps.json
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.json
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.dev.json
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.dll
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csprojAssemblyReference.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfo.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.input.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.output.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorCoreGenerate.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\_AjaxTestView.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Dodaj.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Uredi.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Proba.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Dodaj.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Odaberi.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Rezultat.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cs
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.genruntimeconfig.cache
+C:\Users\Emir\Desktop\RS1\zadnji ispitni zadaci\Ispit_30.01.2020\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CopyComplete
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.deps.json
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.json
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.runtimeconfig.dev.json
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.dll
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\bin\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csprojAssemblyReference.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.AssemblyInfo.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorAssemblyInfo.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.input.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.TagHelpers.output.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorCoreGenerate.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\_AjaxTestView.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Dodaj.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\Uredi.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Proba.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Dodaj.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Index.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Odaberi.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Rezultat.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.RazorTargetAssemblyInfo.cs
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.Views.pdb
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.dll
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.pdb
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.genruntimeconfig.cache
+C:\Users\Emir\Desktop\Zadatak3\Rješenje\RS1_2020_01_30\obj\Debug\netcoreapp2.1\RS1_2020_01_30.csproj.CopyComplete
