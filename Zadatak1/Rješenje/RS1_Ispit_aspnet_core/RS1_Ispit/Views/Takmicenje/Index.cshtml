@@ -1,0 +1,46 @@
+﻿@model RS1_Ispit_asp.net_core.ViewModels.TakmicenjeIndexVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col col-md-4">
+        <form asp-controller="Takmicenje" asp-action="Prikazi" 
+              ajax-poziv="da" ajax-rezultat="ajaxDiv" >
+
+            <h5>Filter za škole:</h5>
+            <select class="form-control" asp-for="SkolaID" asp-items="Model.Skole">
+                
+            </select>
+
+            <h5>Filter za razrede:</h5>
+            <select class="form-control" asp-for="Razred" asp-items="@Model.Razredi">
+                <option>Izaberi razred</option>
+            </select>
+
+            <input type="submit" value="Odaberi" class="btn btn-default" />
+        </form>
+    </div>
+</div>
+
+<div id="ajaxDiv">
+
+
+</div>
+
+
+<script>
+
+    @*$.get("/Takmicenje/Prikazi/@Model.SkolaID", function (rezultat) {
+        $("#ajaxDiv").html(rezultat);
+    })*@
+    if (@Model.SkolaID!= 0) {
+        var data = {
+            "SkolaID": @Model.SkolaID,
+            "Razred": @Model.Razred
+        };
+        $.get("/Takmicenje/Prikazi", data){
+            $("#ajaxDiv").html()
+        };
+    }
+</script>
